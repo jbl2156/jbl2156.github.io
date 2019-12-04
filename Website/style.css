@@ -1,0 +1,45 @@
+body {
+    background-image: url(assets/img/bigstock-abstract-technology-background-250119211.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 3.5em;
+
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-size: 1.5em;
+}
+
+.names{
+    color: white;
+    text-align: center;
+    font-size: 1.25em;
+}
+
+.box {
+    border-radius: 16px;
+    padding: 1em;
+    margin: 1em;
+    background: rgba(0, 0, 0, 0.65);
+    color: white;
+    margin-top: 5em;
+}
+
+.centerButton{
+    text-align: center;
+    
+    
+}
+div.a{
+    text-indent: 50px;
+    font-size: 1.25em;
+}

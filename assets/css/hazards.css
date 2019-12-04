@@ -84,11 +84,16 @@ h1 {
     
 }
 
-div.a{
+div.c {
+  font-size: 200%;
     text-indent: 50px;
-    font-size: 1.25em;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 
 

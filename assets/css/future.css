@@ -109,11 +109,15 @@ div.a{
     font-size: 1.25em;
 }
 
-
-
-
-
-
+div.c {
+  font-size: 100%;
+    text-indent: 50px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 
 
